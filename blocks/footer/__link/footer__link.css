@@ -1,0 +1,16 @@
+.column__link {
+  color: white;
+  text-decoration: none;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.column__link:nth-child(2) {
+  margin: 10px 0 10px 0;
+}
+
+.column__link:hover {
+  opacity: 30%;
+  transition: 0.5s;
+}
