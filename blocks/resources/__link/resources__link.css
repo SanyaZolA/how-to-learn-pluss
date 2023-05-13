@@ -1,10 +1,8 @@
 .resources__link {
-  width: 270px;
-  height: 38px;
-  text-align: center;
+  transition: .5s;
+  text-decoration: none;
 }
 
 .resources__link:hover {
-  opacity: 30%;
-  transition: 0.5s;
+  opacity: .2;
 }
